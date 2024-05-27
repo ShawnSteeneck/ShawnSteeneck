@@ -1,7 +1,26 @@
-## Hi there 👋
+<h1>Hi, I'm Shawn! <br/><a h
+<h2>👨‍💻IT Projects:</h2>
+
+- <b>Active Directory Home Lab</b>
+
+ <h2>Certifications </h2>
+
+<h2>📺 YouTube Videos</h2>
+
+- [Tutorial Active Directory Home Lab]
+
+<h2> 🤳 Connect with me:</h2>
+
+
+
+[<img align="left" alt="Shawn Steeneck | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/shawn-steeneck
+
 
 <!--
-**ShawnSteeneck/ShawnSteeneck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
